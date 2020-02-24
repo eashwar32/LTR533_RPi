@@ -1,0 +1,17 @@
+---- HidApi Matches (16 in 3 files) ----
+USBInterface.DeviceScanner.ScanOnce in DeviceScanner.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             return HidApi.hid_enumerate(vid, pid) != IntPtr.Zero;
+USBInterface.DeviceScanner.ScanLoop in DeviceScanner.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                     IntPtr device_info = HidApi.hid_enumerate(vendorId, productId);
+USBInterface.DeviceScanner.ScanLoop in DeviceScanner.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                     HidApi.hid_free_enumeration(device_info);
+USBInterface in HidApi.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :     internal class HidApi
+USBInterface.USBDevice.USBDevice in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             DeviceHandle = HidApi.hid_open(VendorID, ProductID, serial_number);
+USBInterface.USBDevice.GetFeatureReport in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             if (HidApi.hid_get_feature_report(DeviceHandle, buffer, (uint)length) < 0)
+USBInterface.USBDevice.SendFeatureReport in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             if (HidApi.hid_send_feature_report(DeviceHandle, buffer, (uint)length) < 0)
+USBInterface.USBDevice.ReadRaw in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             int bytes_read = HidApi.hid_read_timeout(DeviceHandle, buffer, (uint)length, readTimeoutInMillisecs);
+USBInterface.USBDevice.WriteRaw in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             byte_written = HidApi.hid_write(DeviceHandle, buffer, (uint)length);
+USBInterface.USBDevice.GetErrorString in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             IntPtr ret = HidApi.hid_error(DeviceHandle);
+USBInterface.USBDevice.GetIndexedString in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                 if (HidApi.hid_get_indexed_string(DeviceHandle, index, pOutBuf, (uint)pOutBuf.Capacity / 4) < 0)
+USBInterface.USBDevice.GetManufacturerString in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                 if (HidApi.hid_get_manufacturer_string(DeviceHandle, pOutBuf, (uint)pOutBuf.Capacity / 4) < 0)
+USBInterface.USBDevice.GetProductString in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                 if (HidApi.hid_get_product_string(DeviceHandle, pOutBuf, (uint)pOutBuf.Capacity / 4) < 0)
+USBInterface.USBDevice.GetSerialNumberString in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                 if (HidApi.hid_get_serial_number_string(DeviceHandle, pOutBuf, (uint)pOutBuf.Capacity / 4) < 0)
+USBInterface.USBDevice.Dispose in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :                     HidApi.hid_close(DeviceHandle);
+USBInterface.USBDevice.Dispose in USBDevice.cs (C:\Users\satheeshkumar\Desktop\work_14_02_2020\PicKitS_SK_Source_ref\USBInterface) :             HidApi.hid_exit();

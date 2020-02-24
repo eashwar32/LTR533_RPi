@@ -1,0 +1,14 @@
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\LTR-568 Demo.exe.config
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\LTR-568 Demo.exe
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\LTR-568 Demo.pdb
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\PICkitS.dll
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\ZedGraph.dll
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\ZedGraph.Web.dll
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\obj\Debug\LTR2568_PICkit_Demo.csprojResolveAssemblyReference.cache
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\obj\Debug\LTR568_PICkitS_Demo.LTR568_PICkitS_Demo.resources
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\obj\Debug\LTR568_PICkitS_Demo.Properties.Resources.resources
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\obj\Debug\LTR2568_PICkit_Demo.csproj.GenerateResource.Cache
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\obj\Debug\LTR-568 Demo.exe
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR2568_PICkit_Demo\obj\Debug\LTR-568 Demo.pdb
+D:\Projects_v2\LTR-532 Demo Source Code\LTR2568_PICkit_Demo\bin\Debug\LTR-2568 Demo.exe.config

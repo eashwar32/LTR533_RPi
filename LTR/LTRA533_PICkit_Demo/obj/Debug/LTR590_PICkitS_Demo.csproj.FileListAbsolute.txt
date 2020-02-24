@@ -1,0 +1,14 @@
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR-559 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR-559 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\obj\Debug\LTR590_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\LTR-559 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-590 UV 3in1 sensor\LTR-590 Demo Source Code\LTR590_PICkitS_Demo\bin\Debug\ZedGraph.Web.dll

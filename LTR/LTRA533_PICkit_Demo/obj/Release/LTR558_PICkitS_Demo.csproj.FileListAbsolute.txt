@@ -1,0 +1,43 @@
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe.config
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\ZedGraph.dll
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.pdb
+C:\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe.config
+C:\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.exe
+C:\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe.config
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.exe
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR554_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe.config
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.pdb
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe.config
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\LTR558_Demo_Gen2.pdb
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\bin\Release\LTR558_Demo_Gen2.pdb
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\LTR554_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR558_Demo_dotNet4_Gen2_with_plots_HS\LTR558_PICkitS_Demo\bin\Release\LTR-558_Demo_Gen2.exe.config

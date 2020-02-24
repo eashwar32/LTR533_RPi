@@ -1,0 +1,4 @@
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\Debug\LTR-690 Demo.exe.config
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\Debug\LTR-690 Demo.exe
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\Debug\LTR-690 Demo.pdb
+D:\Projects_v2\LTR-2568 Demo Source Code\LTR568_PICkit_Demo\bin\Debug\LTR-568 Demo.exe.config

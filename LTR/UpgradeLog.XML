@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LTR554_PICkitS_Demo">
+</Property><Property Name="Solution File" Value="E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\LTR554_PICkitS_Demo.sln">
+</Property><Property Name="User Options File" Value="E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\LTR554_PICkitS_Demo.suo">
+</Property><Property Name="Date" Value="Wednesday, 14 March 2012">
+</Property><Property Name="Time" Value="16:23 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LTR554_PICkitS_Demo.sln" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LTR554_PICkitS_Demo.suo" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo.suo">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\LTR554_PICkitS_Demo.csproj" Description="Project file successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\LTR554_PICkitS_Demo.csproj">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Form1.cs" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Form1.Designer.cs" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Program.cs" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Program.cs">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Properties\Settings.settings" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Resources\liteonlogo.JPG" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Resources\liteonlogo.JPG">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Form1.resx" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\Properties\Resources.resx" Description="File successfully backed up as E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNetFrmWrk4\Backup\LTR554_PICkitS_Demo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\LTR554_PICkitS_Demo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\LTR554_PICkitS_Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LTR554_PICkitS_Demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LTR554_PICkitS_Demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LTR554_PICkitS_Demo" Source="LTR554_PICkitS_Demo\LTR554_PICkitS_Demo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

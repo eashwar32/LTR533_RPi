@@ -1,0 +1,24 @@
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Debug\ZedGraph.Web.dll
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe.config
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Debug\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Debug\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe.config
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Debug\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Debug\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Debug\ZedGraph.Web.dll
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Debug\GenerateResource.write.1.tlog

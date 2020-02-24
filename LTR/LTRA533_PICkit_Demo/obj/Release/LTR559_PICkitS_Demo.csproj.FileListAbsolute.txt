@@ -1,0 +1,48 @@
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe.config
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\HS Work\ISD demo\LTR559_Demo_dotNet4_Gen2_with_plots_HS\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe.config
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.pdb
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\ZedGraph.dll
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Han Sing\Desktop\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe.config
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.exe
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.pdb
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.pdb
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\ZedGraph.dll
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.Properties.Resources.resources
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+Z:\Public Data\HanSing\ISD Demo Source Code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR-559 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\LTR-559 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\Release\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\GenerateResource.read.1.tlog
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,28 @@
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\bin\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\obj\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\obj\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\bin\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\bin\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\bin\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\bin\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\bin\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\obj\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\obj\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTRA-533RGB Demo Source Code_V2.0\LTRA533_PICkit_Demo\obj\Debug\LTRA533_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\LTRA533PS Demo.exe.config
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\LTRA533PS Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\LTRA533PS Demo.pdb
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\mscorlib.dll
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\PICkitS.dll
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\ZedGraph.dll
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\ZedGraph.Web.dll
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\normidna.nlp
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\normnfc.nlp
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\normnfd.nlp
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\normnfkc.nlp
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\bin\Debug\normnfkd.nlp
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\obj\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\obj\Debug\LTRA533_PICkitS_Demo.Properties.Resources.resources
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\obj\Debug\LTRA533_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\obj\Debug\LTRA533PS Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTRA-533RGB Demo Source Code_V2.1\LTRA533_PICkit_Demo\obj\Debug\LTRA533PS Demo.pdb

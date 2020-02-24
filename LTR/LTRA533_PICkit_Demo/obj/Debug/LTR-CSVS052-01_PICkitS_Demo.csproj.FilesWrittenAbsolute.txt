@@ -1,0 +1,12 @@
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/Debug/LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/Debug/LTR_CSVS052_01.Properties.Resources.resources
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/LTR-CSVS052-01 Demo.exe.config
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/LTR-CSVS052-01 Demo.exe.mdb
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/LTR-CSVS052-01 Demo.exe
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/Debug/LTR-CSVS052-01 Demo.exe
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/Debug/LTR-CSVS052-01 Demo.exe.mdb
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/PICkitS.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/ZedGraph.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/ZedGraph.Web.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/Debug/USBInterface.dll

@@ -1,0 +1,12 @@
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\x64\Debug\LTR-559 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\x64\Debug\LTR559_PICkitS_Demo.LTR559_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\x64\Debug\LTR559_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\x64\Debug\LTR559_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\x64\Debug\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\x64\Debug\LTR-559 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\x64\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\x64\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\bin\x64\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\x64\Debug\LTR559_PICkitS_Demo.csprojResolveAssemblyReference.cache
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\x64\Debug\LTR-559 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\software\old demo source code\LTR-559 Demo Source Code\LTR559_PICkitS_Demo\obj\x64\Debug\LTR-559 Demo.pdb

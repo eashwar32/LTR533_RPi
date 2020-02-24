@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="LTRA533_PICkit_Demo/LTR-CSVS052-01_PICkitS_Demo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LTRA533_PICkit_Demo/Form1.cs">
+    <Files>
+      <File FileName="LTRA533_PICkit_Demo/Form1.cs" Line="543" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/Form1.cs" line="264" column="1" />
+      <Breakpoint file="/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/Form1.cs" line="474" column="1" />
+      <Breakpoint file="/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/Form1.cs" line="477" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

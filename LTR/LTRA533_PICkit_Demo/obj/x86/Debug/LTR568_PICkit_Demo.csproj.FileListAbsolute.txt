@@ -1,0 +1,12 @@
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\LTR-568 Demo.exe.config
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\LTR-568 Demo.exe
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\LTR-568 Demo.pdb
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\x86\Debug\LTR568_PICkitS_Demo.LTR568_PICkitS_Demo.resources
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\x86\Debug\LTR568_PICkitS_Demo.Properties.Resources.resources
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\x86\Debug\LTR568_PICkit_Demo.csproj.GenerateResource.Cache
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\x86\Debug\LTR-568 Demo.exe
+D:\Projects_v2\LTR-568 Demo Source Code\LTR568_PICkit_Demo\obj\x86\Debug\LTR-568 Demo.pdb

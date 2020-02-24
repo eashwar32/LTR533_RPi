@@ -1,0 +1,42 @@
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.exe
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.pdb
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.Form1.resources
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.exe
+C:\Documents and Settings\Wei Yea\Local Settings\Application Data\Temporary Projects\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.pdb
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.exe
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.pdb
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.exe
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.pdb
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.LTR506_PICkitS_Demo.resources
+C:\Documents and Settings\Wei Yea\My Documents\Visual Studio 2008\Projects\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\PICkitS.dll
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.exe
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.pdb
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.exe
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.pdb
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\PICkitS.dll
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.LTR506_PICkitS_Demo.resources
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.csproj.GenerateResource.Cache
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.exe
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.pdb
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.exe
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.pdb
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.LTR506_PICkitS_Demo.resources
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.Properties.Resources.resources
+I:\Documents\Work\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\bin\Debug\LTR506_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.LTR506_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR506\LTR506_PICkitS_Demo\LTR506_PICkitS_Demo\obj\Debug\LTR506_PICkitS_Demo.csproj.GenerateResource.Cache

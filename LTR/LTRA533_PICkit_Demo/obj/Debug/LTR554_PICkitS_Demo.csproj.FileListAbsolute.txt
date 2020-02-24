@@ -1,0 +1,112 @@
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.exe
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.pdb
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+G:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.exe
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.pdb
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+H:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+H:\Documents\Work\LTR554_ZMD\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.exe
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.pdb
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+C:\Documents and Settings\WeiYea Lim\Desktop\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_24Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\bin\Debug\LTR554_PICkitS_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_ZMD_25Apr2011\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\bin\Debug\LTR558_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\bin\Debug\LTR558_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR558_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR558_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\obj\Debug\LTR558_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\obj\Debug\LTR558_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\bin\Debug\LTR558_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\bin\Debug\LTR558_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC1\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC3\LTR554_PICkitS_Demo\obj\Debug\LTR558_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR558_Demo_RC3\LTR554_PICkitS_Demo\obj\Debug\LTR558_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC3_Nokia\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_RC4_Nokia_New_MaskingRemoved\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.csproj.GenerateResource.Cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo_v2.exe.config
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo_v2.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\bin\Debug\LTR554_Demo_v2.pdb
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\bin\Debug\ZedGraph.dll
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\bin\Debug\ZedGraph.Web.dll
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\ResolveAssemblyReference.cache
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.LTR554_PICkitS_Demo.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\LTR554_PICkitS_Demo.Properties.Resources.resources
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\GenerateResource.read.1.tlog
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\GenerateResource.write.1.tlog
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo_v2.exe
+E:\Lwy\My Work\Demo Kit Stuff\Source Codes\LTR554_Demo_dotNet4_Gen2_with_plots\LTR554_PICkitS_Demo\obj\Debug\LTR554_Demo_v2.pdb

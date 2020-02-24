@@ -1,0 +1,107 @@
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CopyComplete
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR532_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CopyComplete
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-532 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CopyComplete
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\chausheantan\Desktop\LTR-532RGB Project\Demo\pickits\LTR-2594 Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.cache
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CoreCompileInputs.cache
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.CopyComplete
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+Z:\ISD Mat\4.1    NPI_Products_Shieldless_Sensor\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.2\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.3\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.4\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.5\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-2594RGB Project(shieldless)\Demo\Pickit\LTR-2594 Demo Source Code_V2.6\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB\Demo\LTR-533RGB Demo Source Code_V2.0\LTR2594_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.csproj.GenerateResource.Cache

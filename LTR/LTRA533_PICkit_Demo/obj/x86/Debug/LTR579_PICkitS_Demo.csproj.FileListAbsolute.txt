@@ -1,0 +1,56 @@
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.LTR579_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\Demo\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\Demo\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579-small hole sensor\Demo\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579 Project(small window)\Demo\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579 Project(small window)\Demo\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon work\3. Products\LTR-579 Project(small window)\Demo\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe.config
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.LTR579_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Visual Studio 2010\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.csprojResolveAssemblyReference.cache
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe.config
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.pdb
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.csprojResolveAssemblyReference.cache
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.LTR579_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Visual Studio 2015\Projects\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\Projects_v2\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-579 Demo.exe.config
+D:\Projects_v2\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.exe
+D:\Projects_v2\LTR-579 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-579 Demo.pdb
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR579_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\PICkitS.dll
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.dll
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\ZedGraph.Web.dll
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\AxInterop.WMPLib.dll
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR690_PICkitS_Demo.LTR690_PICkitS_Demo.resources
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-690 Demo.exe.config
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR690_PICkitS_Demo.Properties.Resources.resources
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-690 Demo.exe
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\bin\x86\Debug\LTR-690 Demo.pdb
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-690 Demo.exe
+D:\Projects_v2\LTR-690 Demo Source Code\LTR579_PICkitS_Demo\obj\x86\Debug\LTR-690 Demo.pdb

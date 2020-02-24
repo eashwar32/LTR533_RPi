@@ -1,0 +1,80 @@
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\bin\x86\Debug\LTRA533PS Demo.exe.config
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\bin\x86\Debug\LTRA533PS Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\bin\x86\Debug\LTRA533PS Demo.pdb
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\obj\x86\Debug\LTRA533_PICkitS_Demo.Properties.Resources.resources
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\obj\x86\Debug\LTRA533PS Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\obj\x86\Debug\LTRA533PS Demo.pdb
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.0\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csprojResolveAssemblyReference.cache
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe.config
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.pdb
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR_CSVS052_01.Properties.Resources.resources
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe.config
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csprojAssemblyReference.cache
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR_CSVS052_01.Properties.Resources.resources
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.CopyComplete
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\satheeshkumar\Desktop\ColorSensor-Study\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe.config
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR_CSVS052_01.Properties.Resources.resources
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.CopyComplete
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\Owner\Desktop\LiteOn\SK\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\USBInterface.dll
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe.config
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\USBInterface.dll
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR_CSVS052_01.Properties.Resources.resources
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.CopyComplete
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.pdb
+C:\Users\satheeshkumar\Desktop\work\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csprojAssemblyReference.cache
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe.config
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\LTR-CSVS052-01 Demo.pdb
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\USBInterface.dll
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\bin\x86\Debug\PICkitS.pdb
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csprojAssemblyReference.cache
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR_CSVS052_01.Properties.Resources.resources
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.cache
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.CopyComplete
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.exe
+C:\Users\satheeshkumar\Desktop\work_14_02_2020\LTR\LTRA533_PICkit_Demo\obj\x86\Debug\LTR-CSVS052-01 Demo.pdb

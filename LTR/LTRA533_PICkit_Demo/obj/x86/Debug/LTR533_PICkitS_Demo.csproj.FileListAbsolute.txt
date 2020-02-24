@@ -1,0 +1,23 @@
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR533_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe.config
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.exe
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\LTR-2594 Demo.pdb
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\PICkitS.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\ZedGraph.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\bin\x86\Debug\ZedGraph.Web.dll
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR2594_PICkitS_Demo.Properties.Resources.resources
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR533_PICkitS_Demo.csproj.GenerateResource.Cache
+C:\Users\weeliatchng\Documents\Liteon_Work\Products\LTR-533RGB Project(canopus)\Demo\LTR-533RGB Demo Source Code_V2.0\LTR533_PICkit_Demo\obj\x86\Debug\LTR533_PICkitS_Demo.csprojResolveAssemblyReference.cache

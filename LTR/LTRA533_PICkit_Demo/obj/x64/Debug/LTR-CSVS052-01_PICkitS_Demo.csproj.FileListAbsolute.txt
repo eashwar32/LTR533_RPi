@@ -1,0 +1,11 @@
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x64\Debug\LTR-CSVS052-01 Demo.exe.config
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x64\Debug\LTR-CSVS052-01 Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x64\Debug\LTR-CSVS052-01 Demo.pdb
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x64\Debug\PICkitS.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x64\Debug\ZedGraph.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\bin\x64\Debug\ZedGraph.Web.dll
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x64\Debug\LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x64\Debug\LTR_CSVS052_01.Properties.Resources.resources
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x64\Debug\LTR-CSVS052-01_PICkitS_Demo.csproj.GenerateResource.Cache
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x64\Debug\LTR-CSVS052-01 Demo.exe
+D:\JY Huang\Canopus\Program\Demo\LTR-CSVS052-01 Demo Source Code_V1.1\LTRA533_PICkit_Demo\obj\x64\Debug\LTR-CSVS052-01 Demo.pdb

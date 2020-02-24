@@ -1,0 +1,29 @@
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/x86/Debug/LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/x86/Debug/LTR_CSVS052_01.Properties.Resources.resources
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/x86/Debug/LTR-CSVS052-01 Demo.exe
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/x86/Debug/LTR-CSVS052-01 Demo.pdb
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/Interop.WMPLib.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/PICkitS.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/ZedGraph.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/ZedGraph.Web.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/USBInterface.dll
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.exe.config
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.exe.mdb
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.pdb
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.exe
+/home/pi/Desktop/LTR_Li/LTRA533_PICkit_Demo/obj/x86/Debug/LTR-CSVS052-01 Demo.exe.mdb
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/obj/x86/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/obj/x86/Debug/LTR2594_PICkitS_Demo.LTR2594_PICkitS_Demo.resources
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/obj/x86/Debug/LTR_CSVS052_01.Properties.Resources.resources
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.exe.config
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.exe.mdb
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.pdb
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/LTR-CSVS052-01 Demo.exe
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/obj/x86/Debug/LTR-CSVS052-01 Demo.exe
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/obj/x86/Debug/LTR-CSVS052-01 Demo.exe.mdb
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/obj/x86/Debug/LTR-CSVS052-01 Demo.pdb
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/PICkitS.dll
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/ZedGraph.dll
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/ZedGraph.Web.dll
+/home/pi/Desktop/LTR/LTRA533_PICkit_Demo/bin/x86/Debug/USBInterface.dll
