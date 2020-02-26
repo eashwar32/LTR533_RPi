@@ -1,0 +1,131 @@
+#Check compatibility for MONO use .NET portability analyzer
+
+#Build and run VS project using Mono in RPI
+
+
+#Rasp config for mono:
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install mono-complete
+    mono --version
+    compile CS : mcs "filename"
+	run CS or exe : mono "filename"
+sudo apt-get install mono-runtime
+sudo apt-get install automake
+sudo apt-get install libtool
+sudo apt-get install libglib2.0-dev
+sudo apt-get install libxrender-dev
+sudo apt-get install libfontconfig1-dev
+sudo apt-get install libpng12-dev
+sudo apt-get install libgif-dev
+sudo apt-get install libjpeg8-dev
+sudo apt-get install libtiff5-dev
+sudo apt-get install libexif-dev
+sudo apt-get install gettext
+sudo apt-get install libudev-dev
+sudo apt-get install libcanberra-gtk-module
+
+#Command installation test:
+mono-test-install
+
+#To build VS project or VS solution in PI:
+
+#command: 
+xbuild "*.sln/*.vsproj"
+
+xbuild "*.sln/*.vsproj" /t:Rebuild /p:Configuration=Debug /p:Platform=x86
+
+$ MONO_LOG_LEVEL=debug mono YourApp.exe
+
+#fix:
+
+#Image size
+#windows & Linux competability
+
+#PICKitS dll modification to support linux
+
+1.Do reverse engineer Pickits.dll from Microchip using ILSpy Portable
+2. Referred github pickits source to fix compilation bug
+
+Note: path slash likely need to change in Pickits source for linux
+
+#Look for HID dll alternate for linux
+
+1. Download HIDAPI cross platform HID library
+2. download HIDAPI_interfcace for C# 
+3. test HIDAPI_interface with liteon device
+
+Done:
+
+#windows
+1. Reverse Engineered and Got source code of Pickits.dll using ILSpy Portabale software
+2. Integrated HIDAPI_Interface  with PICKitS driver
+3. Modified HIDAPI_Interface to support PICKITs
+4. Modified HIDAPI C source to support PICKITs
+5. Removed Windows dependencey DLLs from Pickits
+6. Tested on Windowss
+
+#linux
+1.Built application project using mono
+2.Built hidapi.so library from source - used libhidapi-hidraw
+3.Change libhidapi-hidraw.so to hidapi.so in Makefile-manual
+4.compile makefile-manual using "make -f Makefile-manual" command
+5.Copy hidapi.so file to /lib directory
+6.Update Mono config file for DLL map
+     sudo emacs /etc/mono/config
+	 <dllmap dll="hidapi" target="hidapi.so" os="!windows"/>
+7.No need to set UDEV rule 	 
+8.Build PICKitS-HIDAPI_Interface Project in mono
+
+Note: 
+   Modification required in PICKitS-HIDAPI_Interface project to build on mono were as follows:
+       1.Changed .NET standard to .NET framwork 4.6
+	   2.Changed ToolChain version to 15.0 - 12.0
+	   3.Changed Language version from 7.3 to Default
+
+8.Comm error Fixed:
+     Windows Report dscriptor size is 65 bytes.
+     Linux Report dscriptor size is 64 bytes.
+     
+     Can send 65 bytes through both platform.
+     But Linux can read 64 bytes from HID. So 0x00 must be prepend in read data before pass it to PickitS data processing.
+
+9.Fix hid read issue
+      Added 10ms thread sleep in PICKitS read thread to avoid hid read overhead. 
+	   
+10. Device communcation was tested.
+
+11.Fix BitMAP issue
+     Image path and its extension was wrong. JPG and jpg were different.
+
+12. Created Git repository and uploaded linux version
+
+13. Fix CIE chart issue
+       *remove iterative Invalidate() func from paint event handler.
+       * call invalidate from Run_Click() func.
+#Todo:
+
+
+*seggregate Windows and linux issues based on OS type.
+*Setup root user access for application
+*Compile on different platform and test
+*Control GUI maximum size based on monitor resolution
+*Summarise changes required in an application to support both windows and linux platform
+*Deploy
+*end of porject	   
+
+
+
+
+Source files Links
+1. HIDAPI : https://github.com/signal11/hidapi
+2. C# HIDAPI_Iinterface: https://github.com/temach/HIDInterface
+3. PICkitS.DLL version 2.4 : https://www.microchip.com/Developmenttools/ProductDetails/DV164122
+
+      
+
+
+
+
+

@@ -198,11 +198,10 @@ namespace LTR2594_PICkitS_Demo
         public List<double> XData_List = new List<double>(); // this is xreading
 
         
-        string PicPath =  Directory.GetCurrentDirectory() + "/Desktop/LTR/Sunflower.JPG";
-        string PicPath1 = Directory.GetCurrentDirectory() + "/Desktop/LTR/pic1.jpg";       //This is for the CIE1931
-        string PicPath2 = Directory.GetCurrentDirectory() + "/Desktop/LTR/rsz_cctx.jpg";       //This is for CCT
-        string PicPath4 = Directory.GetCurrentDirectory() + "/Desktop/LTR/rsz_tabletphoto.jpg";    //This is for the smaller tablet picture  
-       
+        string PicPath =  Directory.GetCurrentDirectory() + "/Sunflower.JPG";
+        string PicPath1 = Directory.GetCurrentDirectory() + "/pic1.jpg";       //This is for the CIE1931
+        string PicPath2 = Directory.GetCurrentDirectory() + "/rsz_cctx.jpg";       //This is for CCT
+        string PicPath4 = Directory.GetCurrentDirectory() + "/rsz_tabletphoto.jpg";    //This is for the smaller tablet picture  
         
         
         //This is for cursor movement
@@ -247,8 +246,8 @@ namespace LTR2594_PICkitS_Demo
             catch( Exception e)
             {
                 Console.WriteLine("{0} exception caught.",e);
-                Console.WriteLine(PicPath1);
-                Console.WriteLine(PicPath2);
+                //Console.WriteLine(PicPath1);
+                //Console.WriteLine(PicPath2);
               //  Console.WriteLine("Bitmap allocated address: {0}",src1);
                 System.Windows.Forms.Application.Exit();
             }
@@ -789,7 +788,7 @@ namespace LTR2594_PICkitS_Demo
             Execute_Stop.Text = "STOP";
             Exit.Enabled = false;
 
-            string PicPath = Directory.GetCurrentDirectory() + "/Desktop/LTR/Sunflower.JPG";
+            string PicPath = Directory.GetCurrentDirectory() + "/Sunflower.JPG";
             Bitmap Sunflower;
 
             int Scale, Zoom, x, y;
@@ -873,7 +872,7 @@ namespace LTR2594_PICkitS_Demo
                 while (run == true)
                 {
                     currtime = DateTime.Now.ToLongTimeString();
-					pic_CIE1931.Invalidate();
+                    
                     if (checkBox_PS_Interrupt.Checked)
                     {
                         PS_status = Func_Read_PSStatus();
@@ -1115,7 +1114,7 @@ namespace LTR2594_PICkitS_Demo
                 string ErrorStr_InvalidPath = "Invalid Picture Path. \r\n" +
                     "Check that the file \"Sunflower.JPG\" is in \r\n" + 
                     Convert.ToString(Directory.GetCurrentDirectory());
-                MessageBox.Show(PicPath);
+                MessageBox.Show(ErrorStr_InvalidPath);
             }
         }
 
@@ -2600,7 +2599,7 @@ namespace LTR2594_PICkitS_Demo
             try
             {
 
-               // Invalidate();
+                Invalidate();
                 Graphics g = e.Graphics;
                 Point p = new Point();
                 Point p2 = new Point();

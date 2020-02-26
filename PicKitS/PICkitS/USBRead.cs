@@ -318,7 +318,7 @@ namespace PICkitS
 						num = DataLength + 1; 
 						//Console.WriteLine("Actual Rx data length: " + DataLength.ToString());
 					}
-						//Thread.Sleep(10);
+						Thread.Sleep(10);
 				}while( num == 0);
 				Utilities.m_flags.read_buffer[0] = 0x00;
 				for (int i = 0; i < DataLength; i++)

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
 using System.Threading;
+using System.Text;
 
 namespace PICkitS
 {
@@ -276,6 +277,17 @@ namespace PICkitS
 			return result;
 		}
 
+		public static void ByteaArrayToString(byte[] A)
+		{
+			StringBuilder hex = new StringBuilder(A.Length * 2);
+			foreach(byte b in A)
+			{
+				hex.AppendFormat("{0:x2}",b);
+			}
+			Console.WriteLine("Received data:");
+			Console.WriteLine(hex.ToString());
+		}
+
 		public static void Read_USB_Thread()
 		{
 			int num = 0;
@@ -292,26 +304,37 @@ namespace PICkitS
 				
 				//flag = Utilities.ReadFile(Utilities.m_flags.HID_read_handle, Utilities.m_flags.read_buffer, (int)Utilities.m_flags.irbl, ref num, 0);
 
-
+				try{
+				/* replaced hid.dll interface to read */
 				ExDataLength = (int)Utilities.m_flags.irbl;
-				Console.WriteLine("Expected data length: " + ExDataLength.ToString());
-				Console.WriteLine("Reading Data...");
 				do{
-					Utilities.m_flags.HID_Handle.ReadTimeoutInMillisecs = 10;
+					num = 0;
+					Utilities.m_flags.HID_Handle.ReadTimeoutInMillisecs = 0;
 					readData = Utilities.m_flags.HID_Handle.Read(ExDataLength);
 					DataLength = readData.Length;	
 					if( DataLength > 0 )
 					{
 						flag = true;
-						num = DataLength; 
+						num = DataLength + 1; 
+						//Console.WriteLine("Actual Rx data length: " + DataLength.ToString());
 					}
-					Console.Write(".");
+						//Thread.Sleep(10);
 				}while( num == 0);
-				Console.WriteLine("Read DataLength: " + num.ToString());
+				Utilities.m_flags.read_buffer[0] = 0x00;
 				for (int i = 0; i < DataLength; i++)
 				{
-					Utilities.m_flags.read_buffer[i] = readData[i];
+					Utilities.m_flags.read_buffer[i+1] = readData[i];
 				}
+				}
+				catch( Exception ex )
+				{
+					Console.WriteLine(ex);
+
+				}
+				//num = DataLength + 1;
+				//Console.WriteLine("appended Rx data length: " + num.ToString());
+				//ByteaArrayToString(Utilities.m_flags.read_buffer);
+				/***************************************************/
 				
 				if (Utilities.m_flags.g_need_to_copy_bl_data)
 				{
@@ -326,6 +349,7 @@ namespace PICkitS
 				USBRead.m_usb_packet_mutex.ReleaseMutex();
 				if (num != (int)Utilities.m_flags.irbl || !flag)
 				{
+					Console.WriteLine("read Thread exit:{0},{1}",num,flag);
 					break;
 				}
 				if (!USBRead.m_we_are_in_read_loop)
@@ -389,16 +413,14 @@ namespace PICkitS
 		private static bool process_this_packet(ref byte[] p_packet)
 		{
 			bool flag = false;
-			byte b = 1;
 			try
 			{
 				USBRead.m_usb_packet_mutex.WaitOne();
-				
+				byte b = 1;
 				bool flag2 = false;
 				byte arg_15_0 = p_packet[1];
 				while (b < 64)
 				{
-					Console.WriteLine("Case  B: {0},{1}",b, p_packet[(int)b]);				
 					switch (p_packet[(int)b])
 					{
 						case 128:
@@ -406,7 +428,6 @@ namespace PICkitS
 							break;
 						case 129:
 							{
-								Console.WriteLine("Case 129 B: {0}",b);
 								byte arg_60_0 = p_packet[(int)b];
 								USBRead.process_this_group(ref p_packet, (int)b);
 								b += 3;
@@ -414,7 +435,6 @@ namespace PICkitS
 							}
 						case 130:
 							{
-								Console.WriteLine("Case 130 B: {0}", b);
 								byte arg_74_0 = p_packet[(int)b];
 								USBRead.process_this_group(ref p_packet, (int)b);
 								b += 25;
@@ -422,7 +442,6 @@ namespace PICkitS
 							}
 						case 131:
 							{
-								Console.WriteLine("Case 131 B: {0}", b);
 								byte arg_89_0 = p_packet[(int)b];
 								USBRead.process_this_group(ref p_packet, (int)b);
 								b += 21;
@@ -430,7 +449,6 @@ namespace PICkitS
 							}
 						case 132:
 							{
-								Console.WriteLine("Case 132 B: {0}", b);
 								byte arg_9E_0 = p_packet[(int)b];
 								USBRead.process_this_group(ref p_packet, (int)b);
 								b += 7;
@@ -440,7 +458,6 @@ namespace PICkitS
 						case 134:
 						case 135:
 							{
-								Console.WriteLine("Case 135 B: {0}", b);
 								byte arg_B2_0 = p_packet[(int)b];
 								USBRead.process_this_group(ref p_packet, (int)b);
 								b += (byte)(2 + p_packet[(int)(b + 1)]);
@@ -448,7 +465,6 @@ namespace PICkitS
 							}
 						case 136:
 							{
-								Console.WriteLine("Case 136 B: {0}", b);
 								byte arg_CE_0 = p_packet[(int)b];
 								USBRead.process_this_group(ref p_packet, (int)b);
 								b += 2;
@@ -473,7 +489,6 @@ namespace PICkitS
 				}
 			catch(Exception  Ex)
 			{
-				Console.WriteLine("Ex B: {0}",b);
 				Console.WriteLine(Ex);
 				return flag;
 			}
