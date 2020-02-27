@@ -285,12 +285,18 @@ namespace USBInterface
 	                }
 	                byte[] input_report = new byte[length];
 	                int read_bytes = ReadRaw(input_report);
-	                byte[] ret = new byte[read_bytes];
-	                Array.Copy(input_report, 0, ret, 0, read_bytes);
-	                return ret;
+
+					if( read_bytes <= 0 ){
+						return null;
+					}
+					else{
+	                	byte[] ret = new byte[read_bytes];
+	                	Array.Copy(input_report, 0, ret, 0, read_bytes);
+	                	return ret;
+					}
 	            }
 			}
-			catch(Exception ex) {
+			catch(Exception ex){
 				Console.WriteLine(ex);
 				return null;
 			}

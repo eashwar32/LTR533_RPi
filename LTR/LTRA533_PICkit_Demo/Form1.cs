@@ -197,11 +197,10 @@ namespace LTR2594_PICkitS_Demo
         public List<double> YData_List = new List<double>(); // this is the yreading
         public List<double> XData_List = new List<double>(); // this is xreading
 
-        
-        string PicPath =  Directory.GetCurrentDirectory() + "/Desktop/LTR/Sunflower.JPG";
-        string PicPath1 = Directory.GetCurrentDirectory() + "/Desktop/LTR/pic1.jpg";       //This is for the CIE1931
-        string PicPath2 = Directory.GetCurrentDirectory() + "/Desktop/LTR/rsz_cctx.jpg";       //This is for CCT
-        string PicPath4 = Directory.GetCurrentDirectory() + "/Desktop/LTR/rsz_tabletphoto.jpg";    //This is for the smaller tablet picture  
+        string PicPath =  Path.GetDirectoryName(Application.ExecutablePath)+ "/Sunflower.JPG";
+        string PicPath1 = Path.GetDirectoryName(Application.ExecutablePath) + "/pic1.jpg";       //This is for the CIE1931
+        string PicPath2 = Path.GetDirectoryName(Application.ExecutablePath) + "/rsz_cctx.jpg";       //This is for CCT
+        string PicPath4 = Path.GetDirectoryName(Application.ExecutablePath) + "/rsz_tabletphoto.jpg";    //This is for the smaller tablet picture  
        
         
         
@@ -789,7 +788,7 @@ namespace LTR2594_PICkitS_Demo
             Execute_Stop.Text = "STOP";
             Exit.Enabled = false;
 
-            string PicPath = Directory.GetCurrentDirectory() + "/Desktop/LTR/Sunflower.JPG";
+            //string PicPath = Directory.GetCurrentDirectory() + "/Desktop/LTR/Sunflower.JPG";
             Bitmap Sunflower;
 
             int Scale, Zoom, x, y;

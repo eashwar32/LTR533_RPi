@@ -305,26 +305,30 @@ namespace PICkitS
 				//flag = Utilities.ReadFile(Utilities.m_flags.HID_read_handle, Utilities.m_flags.read_buffer, (int)Utilities.m_flags.irbl, ref num, 0);
 
 				try{
-				/* replaced hid.dll interface to read */
-				ExDataLength = (int)Utilities.m_flags.irbl;
-				do{
-					num = 0;
-					Utilities.m_flags.HID_Handle.ReadTimeoutInMillisecs = 0;
-					readData = Utilities.m_flags.HID_Handle.Read(ExDataLength);
-					DataLength = readData.Length;	
-					if( DataLength > 0 )
+					/* replaced hid.dll interface to read */
+					ExDataLength = (int)Utilities.m_flags.irbl;
+					do{
+						num = 0;
+						Utilities.m_flags.HID_Handle.ReadTimeoutInMillisecs = 0;
+						readData = Utilities.m_flags.HID_Handle.Read(ExDataLength);
+						
+						if( readData != null){
+							DataLength = readData.Length;	
+							if( DataLength > 0 )
+							{
+								flag = true;
+								num = DataLength + 1; 
+								//Console.WriteLine("Actual Rx data length: " + DataLength.ToString());
+							}
+						}
+								//Thread.Sleep(10);
+					}while( num == 0);
+					Utilities.m_flags.read_buffer[0] = 0x00;
+					for (int i = 0; i < DataLength; i++)
 					{
-						flag = true;
-						num = DataLength + 1; 
-						//Console.WriteLine("Actual Rx data length: " + DataLength.ToString());
+						Utilities.m_flags.read_buffer[i+1] = readData[i];
 					}
-						Thread.Sleep(10);
-				}while( num == 0);
-				Utilities.m_flags.read_buffer[0] = 0x00;
-				for (int i = 0; i < DataLength; i++)
-				{
-					Utilities.m_flags.read_buffer[i+1] = readData[i];
-				}
+
 				}
 				catch( Exception ex )
 				{
