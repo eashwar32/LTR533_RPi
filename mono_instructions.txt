@@ -104,11 +104,19 @@ Note:
 13. Fix CIE chart issue
        *remove iterative Invalidate() func from paint event handler.
        * call invalidate from Run_Click() func.
+	   
+14. Fixed Hid Timeout issue in RPi.
+	*hidapi.so returned -1 on timeout which was not handled in PICKitS-USBinterface project.
+	* Returned null on neagtive read and added handler on null return
+15. Setup root user access for application
+      Wrote Shell script to run application as root and made shell script as executable
+	  
+16.Changed GetCurrentDirectory to Path.GetDirectoryName(Application.ExecutablePath); to solve relative path error.
+
 #Todo:
 
 
 *seggregate Windows and linux issues based on OS type.
-*Setup root user access for application
 *Compile on different platform and test
 *Control GUI maximum size based on monitor resolution
 *Summarise changes required in an application to support both windows and linux platform
